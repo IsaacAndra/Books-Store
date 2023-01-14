@@ -43,4 +43,14 @@
     .topicos {
         padding: 3em 30vw;
     }
+
+    .topicos__link {
+        transition: .4s;
+    }
+
+    .topicos__link:hover {
+        background: var(--branco);
+        color: var(--azul-degrade);
+    }
+
 }

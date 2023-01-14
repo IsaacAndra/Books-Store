@@ -130,4 +130,9 @@
         width: 60%;
         margin-left: 3em;
     }
+
+      .botoes__ancora:hover {
+        background: var(--azul-degrade);
+        transition: 2s;
+    }
 }
