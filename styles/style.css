@@ -4,6 +4,8 @@
 @import url('./styles/topicos.css');
 @import url('./styles/contato.css');
 @import url('./styles/footer.css');
+@import url('./styles/cadastro.css');
+@import url('./styles/formulario.css');
 
 :root {
     --cor-de-fundo:#EBECEE;
@@ -16,6 +18,7 @@
     --preto: #000000;
     --cinza: #474646;
     --cinza-claro: #858585;
+    --vermelho: #D94937;
 }
 
 body {
